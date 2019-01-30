@@ -1,0 +1,14 @@
+<html>
+	<head>
+        <title>my little webpage</title>         
+               
+    </head>
+	<body>
+		<!-- 在這裡加入 -->
+        <script src="pss.js"></script>
+        <p style="color:white; background-color:cornflowerblue;"></p>      
+        <f><h1><i><bold>猜猜拳</bold></i></h1></f>
+        <f><h3><ins>燃燒吧小宇宙</ins></h3></f>
+		
+	</body>
+</html>
