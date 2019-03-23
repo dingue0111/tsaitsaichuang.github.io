@@ -1,5 +1,6 @@
 # tsaitsaichuang.github.io
 
+//第7、8行為錯誤寫法，不可輸入一個整數N並直接以它作為陣列大小	
 #include <iostream>
 using namespace std;
 
@@ -7,7 +8,7 @@ int main(){
 	int N, D;
 	cin >> N >> D; 
 	int Array_number[N][2 * D] = {};
-	int Array_percentage[N] = {};//第7、8行為錯誤寫法，不可輸入一個整數N並直接以它作為陣列大小	
+	int Array_percentage[N] = {};
 	int line, percent, flag = 0;
 	
 	for(line = 0; line < N ; line++){  
