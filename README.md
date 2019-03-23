@@ -1,6 +1,6 @@
 # example of combining an array with for-loops in C++
 
-//第7、8行為錯誤寫法，不可輸入一個整數N並直接以它作為陣列大小	
+//第7、8行為非正規寫法，不可輸入一個整數N並直接以它作為陣列大小。雖然在Dev-C++上能執行，但C++並沒有這種語法	
 
 	int N, D;
 	cin >> N >> D; 
