@@ -30,4 +30,3 @@
 		cout <<  percent << endl;
 	}
 	return 0;
-} 
